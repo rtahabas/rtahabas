@@ -4,11 +4,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rtahabas.rtahabas)
 
 </p>
-<div size='20px'> Hi! My name is Taha. Thank You for taking the time to view my GitHub Profile 
+<div size='20px'> Thank You for taking the time to view my GitHub Profile 
 </div>
 
 <br>
-- 🌱 I’m currently learning Javascript, Reactjs, Algorithm and all about front-end... 
+- 🌱 👋 Hello! I'm R. Taha Baş, a passionate front-end developer based in Turkey with a knack for turning ideas into interactive digital experiences. I specialize in JavaScript, TypeScript, React, Next.js, Redux, Apollo Client, Zustand, and GIT. Currently expanding my skills into Node.js for backend development.
 
 
 
