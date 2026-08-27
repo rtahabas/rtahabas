@@ -1,39 +1,32 @@
-<h1> Hi There  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+### R. Taha Baş — Front-end engineer
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rtahabas.rtahabas)
+I build the parts of a product people actually touch, and I ship what runs behind them.
+Four years in React and TypeScript, two of them leading a front-end team.
 
-</p>
-<div size='20px'> Thank You for taking the time to view my GitHub Profile 
-</div>
+**Recently**
 
-<br>
-- 🌱 👋 Hello! I'm R. Taha Baş, a passionate front-end developer based in Turkey with a knack for turning ideas into interactive digital experiences. I specialize in JavaScript, TypeScript, React, Next.js, Redux, Apollo Client, Zustand, and GIT. Currently expanding my skills into Node.js for backend development.
+- Built a checkout surface and the browser SDK merchants embed, so integrating a payment
+  became a script tag rather than a project.
+- Rebuilt an application architecture incrementally — ~40% smaller bundle, ~30% faster
+  feature delivery, ~50% fewer re-renders once the effect-lifecycle defects were gone.
+- Wrote a payment gateway end to end and shipped it: contracts, service, SDKs, MCP server,
+  landing site, delivery pipeline.
+- I verify fixes by breaking them. After closing a race condition in a refund flow, I proved
+  the guard held by disabling it and reproducing the exact duplicate it prevents.
 
+**Selected work**
 
+| | |
+|---|---|
+| **Gatewards** | Payment gateway for machine-to-machine commerce. Sole author across the stack — 121 of its 122 merged pull requests, shipped in seven weeks. npm: `@gatewards/agent-sdk`, `@gatewards/merchant-sdk`, `@gatewards/mcp-server` |
+| **Agent control plane** | Operator interface for long-running processes — streaming output, multimodal input, shared local datastore. Next.js, TypeScript, SQLite. Run daily as working software |
+| **Autonomous media pipeline** | 18 nodes, no manual step. Image-to-video, speech synthesis, transform-based merge, queue. Five scenes in about fifty minutes, unattended |
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/rtahabas?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/rtahabas?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/rtahabas?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/rtahabas?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/rtahabas?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+**Stack**
 
+TypeScript · React · Next.js · Zustand · Apollo Client · Tailwind · Vite
+Node.js · Fastify · Prisma · PostgreSQL · MySQL · Redis · GraphQL
+AWS (CDK, ECS) · Kubernetes · Docker · GitHub Actions
+Solidity · EIP-712 · ERC-2771
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/rtahabas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/rtahabas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/rtahabas?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-light)
-
-
-
+**Elsewhere** — [rtahabas.com](https://rtahabas.com/en) · [LinkedIn](https://www.linkedin.com/in/rtahabas/)
